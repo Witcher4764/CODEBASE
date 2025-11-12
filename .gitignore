@@ -23,6 +23,7 @@ dist/
 *.swo
 
 # Project specific
+output/
 *.log
 
 # OS
