@@ -1,0 +1,2 @@
+https://www.datacamp.com/blog/top-python-libraries-for-data-science
+https://www.ibm.com/think/topics/machine-learning-libraries
