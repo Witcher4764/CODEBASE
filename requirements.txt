@@ -1,0 +1,16 @@
+# Link extraction
+newspaper3k==0.2.8
+lxml_html_clean
+
+# PDF extraction
+PyMuPDF
+pytesseract
+Pillow
+
+# Note: Tesseract OCR must be installed separately
+# Install with: sudo apt-get install tesseract-ocr
+
+# YouTube transcript extraction
+youtube-transcript-api
+
+
